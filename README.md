@@ -10,7 +10,7 @@ Research project on robust control of power-electronic converters
 for hybrid energy storage systems in electric vehicles.
 
 **Topics:** HESS, DC/DC Converters, $H_\infty$ Control,
-Parametric Uncertainty, Dynamic Output Feedback
+Parametric Uncertainty, Dynamic Output Feedback Controller Design
 
 **Tools:** MATLAB, Simulink
 
