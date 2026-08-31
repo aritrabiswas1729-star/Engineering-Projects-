@@ -53,28 +53,6 @@ My current research direction focuses on:
 
 ### Areas of Interest
 
-```text
-                 CONTROL SYSTEMS
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-          ▼            ▼            ▼
-       Robust        LPV/H∞      Consensus
-       Control       Control      Control
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                       ▼
-               POWER ELECTRONICS
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-          ▼            ▼            ▼
-        DC-DC         HESS          EV
-      Converters     Storage      Systems
-````
-
----
 
 # 🚀 Featured Projects
 
@@ -96,11 +74,7 @@ Research-oriented work on **robust control of bidirectional DC-DC converters use
 * Wide operating-condition analysis
 * MATLAB/Simulink simulation
 
-### Keywords
 
-`Robust Control` `H∞` `LPV` `HESS` `EV` `DC-DC Converter`
-
----
 
 ## 🔋 2. Control and Simulation of a 5-kW Wind-Solar Hybrid Energy System
 
@@ -119,56 +93,7 @@ Simulation-based modelling and control of a **bidirectional DC/DC converter** fo
 * Renewable generation/load power balancing
 * MATLAB/Simulink simulation
 
-### System Flow
 
-```text
- Wind Energy ──────┐
-                   │
-                   ▼
-              ┌─────────┐
- Solar PV ───►│ DC Bus  │◄── Load
-              └────┬────┘
-                   │
-                   ▼
-       Bidirectional DC/DC
-             Converter
-                   │
-                   ▼
-                Battery
-                   │
-                   ▼
-                 SOC
-              Estimation
-                   │
-                   ▼
-          Energy Management
-```
-
-### Operating Modes
-
-```text
-Renewable Power > Load
-        │
-        ▼
- Battery Charging
-        │
-        ▼
-      BUCK
-
-Renewable Power < Load
-        │
-        ▼
- Battery Discharging
-        │
-        ▼
-      BOOST
-```
-
-### Keywords
-
-`Bidirectional Converter` `Wind-Solar` `Battery` `SOC` `Energy Management`
-
----
 
 ## 🤝 3. Cooperative Control of Heterogeneous DC/DC Boost Converters
 
@@ -193,53 +118,7 @@ Development of a **distributed cooperative-control framework** for heterogeneous
 * Disturbance analysis
 * Switching-frequency investigation
 
-### Control Architecture
 
-```text
-              Reference Current
-                      │
-                      ▼
-             Communication
-                  Network
-                      │
-                      ▼
-          Distributed Controller
-                      │
-          ┌───────────┼───────────┐
-          │           │           │
-          ▼           ▼           ▼
-       Boost 1     Boost 2     Boost N
-          │           │           │
-          ▼           ▼           ▼
-        Coil 1      Coil 2      Coil N
-          │           │           │
-          └───────────┼───────────┘
-                      │
-                      ▼
-              Current Consensus
-```
-
-### Main Objective
-
-```text
-y₁(t) → r₀(t)
-
-y₂(t) → r₀(t)
-
-   ⋮
-
-yₙ(t) → r₀(t)
-
-while
-
-y₁(t) ≈ y₂(t) ≈ ... ≈ yₙ(t)
-```
-
-### Keywords
-
-`Consensus Control` `NI+PR` `Boost Converter` `Multi-Agent Systems`
-
----
 
 ## 🧮 4. Optimal Economic Scheduling of Four Generators
 
@@ -259,53 +138,7 @@ Formulation and solution of a constrained **economic scheduling problem for four
 * 10-hour scheduling horizon
 * Constraint verification
 
-### Optimization Flow
 
-```text
-        Demand Profile
-              │
-              ▼
-      Generator Models
-              │
-              ▼
-       Cost Functions
-              │
-              ▼
-    Operating Constraints
-              │
-              ▼
-       CasADi + IPOPT
-              │
-              ▼
-    Optimal Generation
-              │
-              ▼
-     Constraint Check
-```
-
-### Main Constraints
-
-```text
-Generation Balance:
-
-x₁(k) + x₂(k) + x₃(k) + x₄(k) = d(k)
-
-
-Generation Limits:
-
-xᵢ,min ≤ xᵢ(k) ≤ xᵢ,max
-
-
-Ramp-Rate:
-
-|xᵢ(k) - xᵢ(k-1)| ≤ Ramp Limit
-```
-
-### Keywords
-
-`Optimization` `CasADi` `IPOPT` `Economic Scheduling` `Power Systems`
-
----
 
 ## 🤖 5. TurtleBot3 Trajectory Tracking
 
@@ -326,45 +159,7 @@ Development of a closed-loop **trajectory-tracking control system for TurtleBot3
 * Dynamic velocity control
 * Closed-loop feedback
 
-### Control Architecture
-
-```text
-             TurtleBot3
-                  │
-                  ▼
-             ROS 2 /odom
-                  │
-                  ▼
-           State Estimation
-                  │
-                  ▼
-          Reference Comparison
-                  │
-                  ▼
-           Tracking Errors
-                  │
-                  ▼
-       Coordinate Transformation
-                  │
-                  ▼
-        Nonlinear Controller
-                  │
-                  ▼
-        Dynamic Controller
-                  │
-                  ▼
-               /cmd_vel
-                  │
-                  ▼
-             TurtleBot3
-```
-
-### Keywords
-
-`ROS 2` `MATLAB` `Simulink` `Robotics` `Trajectory Tracking`
-
----
-
+\
 ## ☀️ 6. Solar Battery Charger Using Buck Converter and MPPT
 
 ### Overview
@@ -384,37 +179,7 @@ Team project involving the design and implementation of a **solar battery charge
 * 50-W solar panel
 * 12-V lead-acid battery
 
-### System Flow
 
-```text
-          Solar Panel
-               │
-               ▼
-          Voltage /
-       Current Measurement
-               │
-               ▼
-             MPPT
-          Algorithm
-               │
-               ▼
-        Buck Converter
-               │
-               ▼
-            Battery
-               │
-               ▼
-          SOC Monitoring
-               │
-               ▼
-              LCD
-```
-
-### Keywords
-
-`MPPT` `Buck Converter` `Arduino` `Solar Energy` `Battery Charging`
-
----
 
 # 🛠️ Technical Skills
 
@@ -508,50 +273,8 @@ Team project involving the design and implementation of a **solar battery charge
 
 ---
 
-# 🔄 Engineering Workflow
 
-```text
-              Engineering Problem
-                       │
-                       ▼
-               Mathematical Model
-                       │
-                       ▼
-                 System Analysis
-                       │
-                       ▼
-              Controller / Optimizer
-                       │
-                       ▼
-                 MATLAB/Simulink
-                       │
-                       ▼
-              Simulation & Testing
-                       │
-                       ▼
-              Performance Analysis
-                       │
-                       ▼
-                  Validation
-```
 
-### My Approach
-
-```text
-MODEL
-  ↓
-ANALYZE
-  ↓
-DESIGN
-  ↓
-SIMULATE
-  ↓
-STRESS TEST
-  ↓
-VALIDATE
-```
-
----
 
 # 📚 Current Learning
 
