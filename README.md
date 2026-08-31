@@ -606,29 +606,6 @@ I am interested in opportunities involving:
 
 **Control Engineering · Power Electronics · Electric Vehicles · Energy Storage · Robust Control · Advanced Control · Renewable Energy · Automation · Robotics · Model-Based Design · Research & Development**
 
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<a href="https://github.com/aritrabiswas1729-star">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=aritrabiswas1729-star&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-</a>
-
-<a href="https://github.com/aritrabiswas1729-star">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aritrabiswas1729-star&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/aritrabiswas1729-star/Engineering-Projects">
-<img src="https://img.shields.io/badge/📂%20Engineering%20Projects-Explore%20Repository-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
