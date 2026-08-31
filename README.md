@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/aritrabiswas1729-star">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/aritra-biswas-1b12/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -28,9 +28,9 @@
 
 I am an **M.Tech student in System Control and Automation at IIT Guwahati**, with an undergraduate background in **Electrical Engineering**.
 
-My work is centered around designing and analyzing **advanced control strategies for power-electronic systems**, with an emphasis on robustness, stability, uncertainty handling, and simulation-based validation.
+My work focuses on the design and analysis of **advanced control strategies for power-electronic systems**, with particular interest in robustness, stability, uncertainty handling, and simulation-based validation.
 
-I am particularly interested in problems where **control theory meets practical power-electronics applications**.
+I am interested in problems where **control theory meets practical electrical and power-electronics applications**.
 
 ```text
                     CONTROL THEORY
@@ -57,7 +57,7 @@ I am particularly interested in problems where **control theory meets practical 
 
 My primary research interest is the development of **robust control methodologies for power-electronic converters used in Hybrid Energy Storage Systems (HESS)** for electric vehicles.
 
-The research direction involves:
+My research interests include:
 
 * Robust and optimal control of DC-DC converters
 * H∞ and LPV-based control
@@ -161,7 +161,7 @@ Investigation of robust control techniques for bidirectional DC-DC converters in
 
 `H∞ Control` · `LPV Modeling` · `Loop Shaping` · `Uncertainty` · `HESS` · `EV`
 
-**Key objectives**
+**Key Objectives**
 
 * Maintain DC-bus voltage regulation
 * Handle converter parameter variations
@@ -177,13 +177,13 @@ Investigation of robust control techniques for bidirectional DC-DC converters in
 
 Adaptation and simulation of a leader-following consensus framework for **heterogeneous DC-DC converter networks**, with emphasis on mixed **Negative Imaginary (NI) + Positive Real (PR)** control concepts.
 
-**Technical components**
+**Technical Components**
 
 * Heterogeneous converter modeling
 * Leader-following consensus
 * Graph-based communication
-* NI theory
-* PR systems
+* Negative Imaginary (NI) theory
+* Positive Real (PR) systems
 * Distributed control
 * MATLAB simulation
 
@@ -205,7 +205,7 @@ Adaptation and simulation of a leader-following consensus framework for **hetero
 
 Development and analysis of simulation-based optimal-control problems using **state-space models, MATLAB, and CasADi**.
 
-**Areas explored**
+**Areas Explored**
 
 * Optimal trajectory tracking
 * Constrained control
@@ -216,7 +216,7 @@ Development and analysis of simulation-based optimal-control problems using **st
 
 ---
 
-## 🧰 My Engineering Toolkit
+## 🧰 Engineering Toolkit
 
 <p align="center">
 
@@ -283,9 +283,9 @@ This workflow helps bridge the gap between **mathematical control theory and pra
 
 <table>
 <tr>
-<td>
+<td width="33%" valign="top">
 
-**Control**
+### 🎛️ Control
 
 * Robust Control
 * H∞ Loop Shaping
@@ -294,9 +294,10 @@ This workflow helps bridge the gap between **mathematical control theory and pra
 * Stability & Performance
 
 </td>
-<td>
 
-**Power Systems**
+<td width="33%" valign="top">
+
+### ⚡ Power Systems
 
 * Converter-Dominated Systems
 * Distributed Energy Systems
@@ -304,9 +305,10 @@ This workflow helps bridge the gap between **mathematical control theory and pra
 * Energy Storage
 
 </td>
-<td>
 
-**Applications**
+<td width="33%" valign="top">
+
+### 🚗 Applications
 
 * Electric Vehicles
 * HESS
@@ -323,7 +325,7 @@ This workflow helps bridge the gap between **mathematical control theory and pra
 
 > **Model → Analyze → Design → Simulate → Stress-Test → Validate**
 
-Rather than evaluating a controller only at nominal operating conditions, I am interested in studying its behavior under:
+I am particularly interested in evaluating controllers beyond nominal operating conditions, including:
 
 * Parameter uncertainty
 * Load variations
@@ -338,8 +340,8 @@ Rather than evaluating a controller only at nominal operating conditions, I am i
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aritrabiswas1729-star&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrabiswas1729-star&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </p>
 
 ---
@@ -358,12 +360,12 @@ I am particularly interested in projects where **mathematical modeling, control 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/aritra-biswas-1b12/">
+<img src="https://img.shields.io/badge/LinkedIn-aritra--biswas--1b12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:aritrabiswas1729@gmail.com">
+<img src="https://img.shields.io/badge/Email-aritrabiswas1729%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
