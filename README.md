@@ -73,8 +73,7 @@ Research-oriented work on **robust control of bidirectional DC-DC converters use
 * Converter uncertainty
 * Wide operating-condition analysis
 * MATLAB/Simulink simulation
-
-
+* Google drive Link: https://drive.google.com/file/d/1GxFy91KpVYDI-RTOzGCCqrHJucxPd3NR/view?usp=drive_link
 
 ## 🔋 2. Control and Simulation of a 5-kW Wind-Solar Hybrid Energy System
 
@@ -92,7 +91,7 @@ Simulation-based modelling and control of a **bidirectional DC/DC converter** fo
 * PWM generation
 * Renewable generation/load power balancing
 * MATLAB/Simulink simulation
-
+* Google drive Link: https://drive.google.com/file/d/1pvx2oE_TI88qoqADTqAUip98F-rlHkh9/view?usp=drive_link
 
 
 ## 🤝 3. Cooperative Control of Heterogeneous DC/DC Boost Converters
@@ -117,7 +116,7 @@ Development of a **distributed cooperative-control framework** for heterogeneous
 * Time-varying reference tracking
 * Disturbance analysis
 * Switching-frequency investigation
-
+* Google drive Link: https://drive.google.com/file/d/1H3BZVyCpoJ56zeygVmwGK6xV_vAPRI3I/view?usp=drive_link
 
 
 ## 🧮 4. Optimal Economic Scheduling of Four Generators
@@ -137,7 +136,7 @@ Formulation and solution of a constrained **economic scheduling problem for four
 * Ramp-rate constraints
 * 10-hour scheduling horizon
 * Constraint verification
-
+* Google drive Link: https://drive.google.com/file/d/1MCufECKSpjPndDwTZXJAZx1aepCe2lpL/view?usp=drive_link
 
 
 ## 🤖 5. TurtleBot3 Trajectory Tracking
@@ -158,7 +157,7 @@ Development of a closed-loop **trajectory-tracking control system for TurtleBot3
 * Nonlinear kinematic control
 * Dynamic velocity control
 * Closed-loop feedback
-
+* Google drive Link: https://drive.google.com/file/d/1sszQWqYKfDxGrrmFenhybEpduXkq803t/view?usp=drive_link
 \
 ## ☀️ 6. Solar Battery Charger Using Buck Converter and MPPT
 
@@ -178,8 +177,27 @@ Team project involving the design and implementation of a **solar battery charge
 * LCD parameter display
 * 50-W solar panel
 * 12-V lead-acid battery
+* Google drive Link: https://drive.google.com/file/d/1genJSKmtLC17iyBzhNATlfFO8X2ei0aU/view?usp=drive_link
 
+\
+## ⚙️ 07 — DC Motor Closed-Loop Speed Control Using PID
 
+**Control Systems / Embedded Project**
+
+Development of a **closed-loop DC motor speed-control system** using a PID controller, quadrature encoder feedback, Arduino, and an L293D motor driver.
+
+### Key Points
+
+- PID-based speed control
+- Closed-loop feedback
+- Quadrature encoder
+- RPM measurement
+- PWM-based motor drive
+- Arduino UNO
+- L293D motor driver
+- Setpoint tracking
+- Real-time speed monitoring
+- Google drive link: https://drive.google.com/file/d/1uq0nkRhC3Ebfnr_WKsKWLzZb3xvp8K9L/view?usp=drive_link
 
 # 🛠️ Technical Skills
 
