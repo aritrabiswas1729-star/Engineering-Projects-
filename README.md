@@ -1,4 +1,3 @@
-````markdown
 #⚡ Aritra Biswas
 
 <p align="center">
