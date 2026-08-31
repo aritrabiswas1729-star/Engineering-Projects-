@@ -358,22 +358,24 @@ I am particularly interested in projects where **mathematical modeling, control 
 
 ## 📫 Let's Connect
 
+## 📊 GitHub Activity
+
 <p align="center">
+  <a href="https://github.com/aritrabiswas1729-star">
+    <img src="https://img.shields.io/github/followers/aritrabiswas1729-star?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/aritra-biswas-1b12/">
-<img src="https://img.shields.io/badge/LinkedIn-aritra--biswas--1b12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/aritrabiswas1729-star/Engineering-Projects">
+    <img src="https://img.shields.io/github/stars/aritrabiswas1729-star/Engineering-Projects?style=for-the-badge&logo=github&label=Project%20Stars"/>
+  </a>
 
-<a href="mailto:aritrabiswas1729@gmail.com">
-<img src="https://img.shields.io/badge/Email-aritrabiswas1729%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/aritrabiswas1729-star/Engineering-Projects">
+    <img src="https://img.shields.io/github/last-commit/aritrabiswas1729-star/Engineering-Projects?style=for-the-badge&logo=github&label=Latest%20Commit"/>
+  </a>
 </p>
 
 <p align="center">
-  <i>Interested in control, power electronics, and intelligent energy systems.</i>
-</p>
-
-<p align="center">
-  <strong>Control Theory × Power Electronics × Robustness × Simulation</strong>
+  <a href="https://github.com/aritrabiswas1729-star/Engineering-Projects">
+    <img src="https://img.shields.io/badge/📂%20Engineering%20Projects-View%20Repository-0e75b6?style=for-the-badge"/>
+  </a>
 </p>
