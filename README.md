@@ -1,5 +1,4 @@
-#⚡ Aritra Biswas
-
+# ⚡ Aritra Biswas
 <p align="center">
   <strong>M.Tech | System Control & Automation | IIT Guwahati</strong>
 </p>
