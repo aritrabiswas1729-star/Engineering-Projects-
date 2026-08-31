@@ -339,11 +339,12 @@ I am particularly interested in evaluating controllers beyond nominal operating 
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aritrabiswas1729-star&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrabiswas1729-star&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
+## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aritrabiswas1729-star&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aritrabiswas1729-star&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
 ---
 
 ## 🎯 What I'm Looking For
