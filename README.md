@@ -631,13 +631,4 @@ I am interested in opportunities involving:
 
 <p align="center">
 
-<strong>Control Theory × Power Electronics × Energy Systems × Robotics</strong>
 
-</p>
-
-<p align="center">
-
-<i>Building, modelling and controlling intelligent engineering systems.</i>
-
-</p>
-```
