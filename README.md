@@ -196,7 +196,7 @@ Development of a **closed-loop DC motor speed-control system** using a PID contr
 - L293D motor driver
 - Setpoint tracking
 - Real-time speed monitoring
-- Google drive link: https://drive.google.com/file/d/1uq0nkRhC3Ebfnr_WKsKWLzZb3xvp8K9L/view?usp=drive_link
+- Google drive link: [https://drive.google.com/file/d/1uq0nkRhC3Ebfnr_WKsKWLzZb3xvp8K9L/view?usp=drive_link](https://drive.google.com/file/d/1nJr7-mFhjo4NuUwm_PeSNGUHCalEg7_V/view?usp=drive_link)
 
 # 🛠️ Technical Skills
 
